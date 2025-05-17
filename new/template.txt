@@ -1,0 +1,1 @@
+REM dit is een template om scripts te runnen door ze met de flipper op te vragen van het internet
